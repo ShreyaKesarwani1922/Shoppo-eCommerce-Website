@@ -1,5 +1,7 @@
 # Shoppo - E-commerce Website
 
+[Deployed Link](https://shreyakesarwani1922.github.io/Shoppo-eCommerce-Website/)
+
 Welcome to **Shoppo**, an elegant and user-friendly e-commerce website designed to provide a seamless shopping experience. This project is built using HTML, CSS, and JavaScript, focusing on simplicity, responsiveness, and interactivity.
 
 ## Features
